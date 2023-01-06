@@ -38,7 +38,7 @@ br.set_handle_refresh(mechanize._http.HTTPRefreshProcessor(),max_time=1)
 br.addheaders = [('User-Agent', 'Opera/9.80 (Android; Opera Mini/13.0.2036/37.7549; U; pl) Presto/2.12.423 Version/12.16')]
 br.addheaders = [('user-agent','Dalvik/1.6.0 (Linux; U; Android 4.4.2; NX55 Build/KOT5506) [FBAN/FB4A;FBAV/106.0.0.26.68;FBBV/45904160;FBDM/{density=3.0,width=1080,height=1920};FBLC/it_IT;FBRV/45904160;FBCR/PosteMobile;FBMF/asus;FBBD/asus;FBPN/com.facebook.katana;FBDV/ASUS_Z00AD;FBSV/5.0;FBOP/1;FBCA/x86:armeabi-v7a;]')]
 br.addheaders = [('user-agent','Mozilla/5.0 (Windows NT 6.1; Win64; x64; rv:47.0) Gecko/20100101 Firefox/47.0Mozilla/5.0 (Macintosh; Intel Mac OS X x.y; rv:42.0) Gecko/20100101 Firefox/42.0def keluar():'
-br.addheaders = [('user-agent','Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko) Version/13.1.1 Mobile/15E148 Safari/604.1'
+br.addheaders = [('user-agent','Mozilla/5.0 (iPhone; CPU iPhone OS 13_5_1 like Mac OS X) AppleWebKit/605.1.15 (KHTML, like Gecko)Version/13.1.1 Mobile/15E148 Safari/604.1'
 	print 'Thanks.'
 	os.sys.exit()
 
@@ -139,7 +139,7 @@ logo2 = """
 \033[1;93m➣ \033[1;91mWHATSAPP  :   \033[1;97mNo whts
 \033[1;94m➣ \033[1;96mGITHUB    :   \033[1;97m(F)
 \033[1;96m➣ \033[1;92mTEAM      :   \033[1;97mProgramming
-\033[1;91m➣ \033[1;93mVERSION   :   \033[1;97m12.16
+\033[1;91m➣ \033[1;93mVERSION   :   \033[1;97m13.1.1
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••      
 \033[1;91m➣ \033[1;93mCP IDS Open After 7 Days..
 \033[1;97m•••••••••••••••••••••••••••••••••••••••••••••••     
